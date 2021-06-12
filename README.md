@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Helena, a frontend developer graduate
 
-<!--
-**Helena-p/Helena-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I’m currently working on my portfolio.
+- 🌱 I’m currently learning TDD through an online course by David Bieder. I am also attending the 10 week Vanilla Javascript course with Chris Ferdinandi to deepen my knowledge in Javascript.
+- 📫 How to reach me: linkedin.com/in/helenaplantin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p)](https://github.com/anuraghazra/github-readme-stats)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p&show_icons=true&theme=gruvbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Helena-p&repo=github-readme-stats)](https://github.com/Helena-p/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact)](https://github.com/Helena-p/github-readme-stats)
+[![Helena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Helena_p)](https://github.com/Helena-p/github-readme-stats)
