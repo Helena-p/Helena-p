@@ -9,4 +9,4 @@
 
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact&theme=gruvbox)](https://github.com/Helena-p/github-readme-stats)
-[![Helena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Helena_p)](https://github.com/Helena-p/github-readme-stats)
+[![Helena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Helena_p&theme=gruvbox)](https://github.com/Helena-p/github-readme-stats)
