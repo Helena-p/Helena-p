@@ -6,7 +6,7 @@
 - 📫 How to reach me: linkedin.com/in/helenaplantin
 
 
-[![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p&show_icons=true&theme=gruvbox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Helena-p&repo=github-readme-stats)](https://github.com/Helena-p/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact)](https://github.com/Helena-p/github-readme-stats)
