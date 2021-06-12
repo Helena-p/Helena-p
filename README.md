@@ -15,6 +15,7 @@ New to this industry I take every opportunity to learn from my seniors and peers
 <hr>
 
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p&show_icons=true&theme=gruvbox) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact&theme=gruvbox)](https://github.com/Helena-p/github-readme-stats)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p&show_icons=true&theme=gruvbox)
 [![Helena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Helena_p&theme=gruvbox)](https://github.com/Helena-p/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact&theme=gruvbox)](https://github.com/Helena-p/github-readme-stats)
