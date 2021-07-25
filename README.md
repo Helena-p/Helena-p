@@ -8,7 +8,7 @@ New to this industry I take every opportunity to learn from my seniors and peers
 
 <hr>
 
-- I’m currently working on my portfolio.
+- I’m currently attending a course in TDD with David Bieder and Vanilla Js Academy, a project-based javascript course with Chris Ferdinandi.
 - 🌱 I’m currently learning TDD through an online course by David Bieder. I am also attending the 10 week Vanilla Javascript course with Chris Ferdinandi to deepen my knowledge in Javascript.
 - 📫 How to reach me: linkedin.com/in/helenaplantin
 
