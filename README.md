@@ -8,8 +8,8 @@ New to this industry I take every opportunity to learn from my seniors and peers
 
 <hr>
 
-- I’m currently working on my portfolio.
-- 🌱 I’m currently learning TDD (Test Driven Development) through an online course by David Bieder. I am also attending the 10 week Vanilla Javascript course with Chris Ferdinandi to deepen my knowledge in Javascript.
+- I’m currently working on projects to build a portfolio.
+- 🌱 I’m in October attending the 10 week Vanilla Javascript course with Chris Ferdinandi to deepen my knowledge in Javascript.
 - 📫 How to reach me: linkedin.com/in/helenaplantin
 
 <hr>
