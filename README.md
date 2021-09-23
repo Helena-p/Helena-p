@@ -8,7 +8,7 @@ New to this industry I take every opportunity to learn from my seniors and peers
 
 <hr>
 
-- I’m currently working on projects to build a portfolio.
+- 🌻 I’m currently improving my knowledge in React.
 - 🌱 I’m in October attending the 10 week Vanilla Javascript course with Chris Ferdinandi to deepen my knowledge in Javascript.
 - 📫 How to reach me: linkedin.com/in/helenaplantin
 
