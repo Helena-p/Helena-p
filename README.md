@@ -16,7 +16,7 @@ New to this industry I take every opportunity to learn from my seniors and peers
 
 - 📫&nbsp; How to reach me: linkedin.com/in/helenaplantin
 
-- 👩‍💻&nbsp; See more of my ![projects on Codepen](https://codepen.io/helena-p)
+- 👩‍💻&nbsp; See more of my [projects on Codepen](https://codepen.io/helena-p)
 <hr>
 
 
