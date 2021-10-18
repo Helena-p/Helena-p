@@ -14,7 +14,7 @@ New to this industry I take every opportunity to learn from my seniors and peers
 
 - 💻&nbsp; ![Helena Codewar stats](https://www.codewars.com/users/Helena-p/badges/small)
 
-- 📫&nbsp; How to reach me: linkedin.com/in/helenaplantin
+- 📫&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/helenaplantin/)
 
 - 👩‍💻&nbsp; See more of my [projects on Codepen](https://codepen.io/helena-p)
 <hr>
