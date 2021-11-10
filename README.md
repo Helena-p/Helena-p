@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Helena, a frontend developer graduate
+### Hi there 👋 I'm Helena, a frontend developer
 
 I had applied and been accepted for higher education in Marketing Automation, but I was curious about coding and thought it would be a strength, working in digital marketing with coding skills. But, in fact, I enjoyed it so much that I decided to become a software developer instead.
 
