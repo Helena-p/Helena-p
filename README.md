@@ -10,8 +10,6 @@ New to this industry I take every opportunity to learn from my seniors and peers
 
 - 🌻&nbsp; I’m currently improving my knowledge in React.
 
-- 🌱&nbsp; I’m in October attending the 10 week Vanilla Javascript course with Chris Ferdinandi to deepen my knowledge in Javascript.
-
 - 💻&nbsp; ![Helena Codewar stats](https://www.codewars.com/users/Helena-p/badges/small)
 
 - 📫&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/helenaplantin/)
