@@ -4,11 +4,9 @@ I had applied and been accepted for higher education in Marketing Automation, bu
 
 I have studied frontend development with Code Institute and Sundsgarden FHS. During my studies I have gained the knowledge and to appreciate the value of clean, well written code. Code to be reusable and easily maintained in future codebases. I have collaborated with other students in several projects with agile work processes and, designed web applications to be responsive and inclusive to all users.
 
-New to this industry I take every opportunity to learn from my seniors and peers, also I highly encourage and value constructive feedback to be able to grow further in my field. 
+I work as a fron-end developer at Circulate8, an online marketplace for sustainable packaging. We're currently transferring our MVP to a headless e-commerce application built with Nextjs, Swell and PostgresSQL.
 
 <hr>
-
-- 🌻&nbsp; I’m currently improving my knowledge in React.
 
 - 💻&nbsp; ![Helena Codewar stats](https://www.codewars.com/users/Helena-p/badges/small)
 
