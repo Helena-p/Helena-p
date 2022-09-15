@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Helena, a frontend developer
 
-I had applied and been accepted for higher education in Marketing Automation, but I was curious about coding and thought it would be a strength, working in digital marketing with coding skills. But, in fact, I enjoyed it so much that I decided to become a software developer instead.
+I work as a front-end developer at Circulate8, a marketplace for all things packaging, aiming to speed up the world's transition towards more sustainable consumption and a circular economy. We are a small tech team at Circulate8 and in our toolbox you find NextJs, Python/Django, PostgresSQL ... I have a passion for accessibility, UX/UI and web performance.
 
-I have studied frontend development with Code Institute and Sundsgarden FHS. During my studies I have gained the knowledge and to appreciate the value of clean, well written code. Code to be reusable and easily maintained in future codebases. I have collaborated with other students in several projects with agile work processes and, designed web applications to be responsive and inclusive to all users.
-
-I work as a front-end developer at Circulate8, an online marketplace for sustainable packaging. We're currently transferring our MVP to a headless e-commerce application built with Nextjs, Swell and PostgresSQL.
+I have studied frontend development with Code Institute and Sundsgarden FHS. During my studies I have gained the knowledge and to appreciate the value of clean, well written code. Code to be reusable and easily maintained in future codebases.
 
 <hr>
 
