@@ -17,4 +17,4 @@ I have studied frontend development with Code Institute and Sundsgarden FHS. Dur
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helena-p&show_icons=true&theme=gruvbox)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact&theme=gruvbox)](https://github.com/Helena-p/Helena-p/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&layout=compact&theme=gruvbox)](https://github.com/Helena-p/Helena-p/github-readme-stats)
