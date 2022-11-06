@@ -12,4 +12,4 @@ I have studied frontend development with Code Institute and Sundsgarden FHS. Dur
 
 - 👩‍💻&nbsp; See more of my [projects on Codepen](https://codepen.io/helena-p)
 
-![Languages]("https://wakatime.com/share/@Helena_p/3e81d817-7e07-4377-81d7-b1cf84cf0f02.svg")
+![Languages](https://wakatime.com/share/@Helena_p/3e81d817-7e07-4377-81d7-b1cf84cf0f02.svg)
