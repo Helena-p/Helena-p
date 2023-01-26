@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Helena, a frontend developer
 
-I work as a front-end developer at [Circulate8](https://www.circulate8.com/), a marketplace for all things packaging, aiming to speed up the world's transition towards more sustainable consumption and a circular economy. We are a small tech team at Circulate8 and in our toolbox you find NextJs, Python/Django, PostgresSQL, Cypress ... I have a passion for accessibility, UX/UI and web performance.
+I work at [Circulate8](https://www.circulate8.com/), a young marketplace for all things packaging, aiming to speed up the world's transition towards more sustainable consumption and a circular economy. 
+At Circulate, I am part of a team of three developers and a UX/UI developer. This summer we transitioned our marketplace from a CMS-based MVP to a headless eCommerce Next.js application hosted on Swell.js, an API-first platform, and with Material UI component library. I also worked on the UI for our PostgreSQL database in Django, as well as implementing test automation in Cypress.
 
-I have studied frontend development with Code Institute and Sundsgarden FHS. During my studies I have gained the knowledge and to appreciate the value of clean, well written code. Code to be reusable and easily maintained in future codebases.
-
+Daily, I work in Git/GitHub following agile practices (Kanban) with PR reviews. Alongside implementing new features, I highly enjoy maintaining and updating our codebase to be performant, built for scale, and with accessibility in mind for including digital experience for all.
+ 
 <hr>
 
 - 💻&nbsp; ![Helena Codewar stats](https://www.codewars.com/users/Helena-p/badges/small)
