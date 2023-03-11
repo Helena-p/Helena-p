@@ -11,6 +11,5 @@ Daily, I work in Git/GitHub following agile practices (Kanban) with PR reviews. 
 
 - 📫&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/helenaplantin/)
 
-- 👩‍💻&nbsp; See more of my [projects on Codepen](https://codepen.io/helena-p)
 
 ![Languages](https://wakatime.com/share/@Helena_p/3e81d817-7e07-4377-81d7-b1cf84cf0f02.svg)
