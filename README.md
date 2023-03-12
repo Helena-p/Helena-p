@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Helena, a frontend developer
+### Hi 👋 I'm Helena, a frontend developer
 
 I work at [Circulate8](https://www.circulate8.com/), a young marketplace for all things packaging, aiming to speed up the world's transition towards more sustainable consumption and a circular economy. <br>
 
