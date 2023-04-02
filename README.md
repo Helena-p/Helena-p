@@ -6,12 +6,12 @@ A junior frontend in a development team of 4. We launched our new headless e-com
 
 - UI for our PostegresSQL database in Django for CRUD operations regarding product data
 - the foundation for automated e2e testing with Cypress
-- initiated checklist for PRr eviews and a working document for the Circulate codestandard
-- developed dashboard for users with functionality toc reateanaccount, save and update their data, update
-passwords with validation, payments and create account and log in
+- initiated checklist for PR reviews and a working document for the Circulate codestandard
+- developed dashboard for users with functionality to create an account, save and update their data, update
+passwords with validation, view order history, manage payments, create account and log in
 - scaleable, reusable components in preparation for textcontent CMS optimised for accessibility and SEO
 - static pages according to design specification in Figma
-- pullrequest codereviews
+- pullrequest code reviews
 - and much more ...
 <br>
 
