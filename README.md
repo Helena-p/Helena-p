@@ -12,7 +12,6 @@ passwords with validation, view order history, manage payments, create account a
 - scaleable, reusable components in preparation for textcontent CMS optimised for accessibility and SEO
 - static pages according to design specification in Figma
 - pullrequest code reviews
-- and much more ...
 <br>
 
 Alongside implementing new features, I highly enjoy maintaining and updating our codebase to be performant, built for scale, and with accessibility in mind for including digital experience for all.<br><br>
