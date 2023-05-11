@@ -1,8 +1,6 @@
 ### Hi 👋 I'm Helena, a frontend developer
 
-I work at [Circulate8](https://www.circulate8.com/), a young marketplace for all things packaging, aiming to speed up the world's transition towards more sustainable consumption and a circular economy. <br>
-
-A junior frontend in a development team of 4. We launched our new headless e-commerce application in mid-September built in Next.js and Swell as a platform. We work agile in GitHub Flow according to the Kanban model. At Circulate, I have created:
+During my employment at Circulate, I have created:
 
 - UI for our PostegresSQL database in Django for CRUD operations regarding product data
 - the foundation for automated e2e testing with Cypress
@@ -14,7 +12,7 @@ passwords with validation, view order history, manage payments, create account a
 - pullrequest code reviews
 <br>
 
-Alongside implementing new features, I highly enjoy maintaining and updating our codebase to be performant, built for scale, and with accessibility in mind for including digital experience for all.<br><br>
+Alongside implementing new features, I highly enjoy maintaining and updating the codebase to be performant, built for scale, and with accessibility in mind for including digital experience for all.<br><br>
 I continously strive to deepen my knowledge and below are some courses I have taken or are currently enrolled in:<br><br>
 **[Vanilla Js Academy / Chris Ferdinandi](https://vanillajsacademy.com/)**<br>
 10 week project-based course in JavaScript focused on problem solving. Smaller projects in DOM manipulation, APIs, async / await, XSS attacks, creating own plug-ins, modules.<br><br>
