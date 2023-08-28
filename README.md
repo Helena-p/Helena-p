@@ -22,8 +22,7 @@ Project-based immersion in CSS, modern CSS and responsive design. Create an unde
 A comprehensive course designed build an understanding for the deeper levels CSS. Learn how the language really works, and empower to build robust user interfaces.<br><br>
 **[Joy of React / Josh Comeau](https://www.joyofreact.com/)**<br>
 Learn how React really works, and use it to build robust, accessible user interfaces.<br><br>
-**[Academind Pro member](https://academind.com/)**<br>
-My go to place for all fullstack knowledge<br><br>
+
 
  
 <hr>
