@@ -2,7 +2,7 @@
 
 I transitioned into development in 2021 with nothing more than great curiosity, a desire to learn, and a willingness to put in all the effort that was needed for the work.
 
-In my recent role, I participated in the MVP (minimal viable product) development for an early-stage start-up, and later took an active part in developing the new web application from start to delivery. 
+In my recent role, I participated in the MVP (minimal viable product) development for an early-stage start-up, and later took an active part in developing the new web application from start to delivery using Next.js, and Material UI on Swell.is platform backed with a PostgreSQL database.
 
 
 As a junior frontend developer at Circulate8 in a team of two seniors and a UI designer, my responsibility was to create performant, reusable React components, implement new features, test, and general maintenance. Some examples:
