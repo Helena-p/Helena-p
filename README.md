@@ -36,5 +36,4 @@ Learn how React really works, and use it to build robust, accessible user interf
 
 - 📫&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/helenaplantin/)
 
-
-![Languages](https://wakatime.com/share/@Helena_p/3e81d817-7e07-4377-81d7-b1cf84cf0f02.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&hide_progress=false)
