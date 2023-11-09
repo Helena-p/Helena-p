@@ -34,8 +34,6 @@ Learn how React really works, and use it to build robust, accessible user interf
  
 <hr>
 
-- 💻&nbsp; ![Helena Codewar stats](https://www.codewars.com/users/Helena-p/badges/small)
-
 - 📫&nbsp; [Connect with me on LinkedIn](https://www.linkedin.com/in/helenaplantin/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helena-p&hide_progress=false)
