@@ -17,7 +17,7 @@ passwords with validation, view order history, manage payments, create an accoun
 - pullrequest code reviews
 <br>
 
-I am currently furthering my education within C#/.Net at Lexicon. During this course, I will also pick up ASP.NET, SQL, Azure, and Blazor.
+I am currently furthering my education within C#/.Net at Lexicon, Linköping. During this course, I will also pick up ASP.NET, SQL, Azure, and Blazor.
 
 Alongside implementing new features, I highly enjoy maintaining and updating codebases to be performant, built for scale, and with accessibility in mind for including digital experience for all.<br><br>
 I continuously strive to deepen my knowledge and below are some courses I have taken or am currently enrolled in:<br><br>
